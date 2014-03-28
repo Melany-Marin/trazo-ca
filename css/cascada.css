@@ -1,0 +1,70 @@
+header{
+	background-color: #900000;
+	margin-top: 50px;
+	margin-bottom: 20px;
+	padding: 30px;
+}
+
+#margin{
+	margin-top: 50px;
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-bottom: 30px;
+}
+
+#texto{
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+#titulocontenedor{
+		margin-top: 80px;
+		margin-bottom: 50px;
+}
+
+#elgrantitulo{
+	text-align: center;
+}
+
+p{
+	font-family:'Roboto Slab', serif;
+	font-style: normal 400;
+	font-size: 15px;
+	padding-top: 20;
+	padding-bottom: 20;
+}
+
+
+
+h1{
+	font-family: 'Roboto Slab', serif;
+	font-style: bold 700;
+	font-size: 30px;
+	color: #FFFFFF;
+
+	
+}
+
+h2{
+	font-family: 'Roboto Slab', serif;
+	font-size: 20px;
+	font-style: normal 400;
+	color: #FFFFFF;
+}
+
+h3{
+	font-family: 'Roboto Slab', serif;
+	font-style: bold 700;
+	font-size: 18px;
+}
+
+h4{
+	font-family: 'Roboto Slab', serif;
+	font-style: normal 400;
+	font-size: 15px;
+}
+
+
+img{
+	max-width: 1000px;
+}
